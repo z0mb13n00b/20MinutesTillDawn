@@ -66,7 +66,7 @@ For example, `core:clean` removes `build` folder only from the `core` project.
 
 1. Clone or download this repository:
    ```
-   git clone https://github.com/yourusername/20MinutesTillDawn.git
+   git clone https://github.com/kasri-p/20MinutesTillDawn.git
    ```
    Or download and extract the ZIP file from the repository.
 
